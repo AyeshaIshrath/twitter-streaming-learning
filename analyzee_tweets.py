@@ -26,7 +26,7 @@ def main():
 
 	#Reading Tweets
 	print 'Reading Tweets\n'
-	tweets_data_path = '/home/ayesha/twitter_data.txt'
+	tweets_data_path = '...../twitter_data.txt'
 
 	tweets_data = []
 	tweets_file = open(tweets_data_path, "r")
